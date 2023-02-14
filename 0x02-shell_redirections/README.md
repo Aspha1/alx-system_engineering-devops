@@ -15,4 +15,4 @@
     Input format: One line, one word
     Output format: One line, one word
     Words should be sorted
-14 A script that 
+14 A script that displays lines containing the pattern “root” from the file /etc/passwd
