@@ -23,4 +23,5 @@
   include capital letters as well.
 19 A script that replaces all characters A and c from input to Z and e respectively.  
 20 A script that removes all letters C and c from the input.
-21 A script that 
+21 A script that reverses its input.
+22 A script that  
